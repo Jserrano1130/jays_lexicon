@@ -10,7 +10,7 @@ mkdir : make new dir
 touch : make or change file
 cat : concatenate (not sure what that means but i know i can route date into and from files)
 . : this dir
-rm : remove 
+rm : remove the bannas from the monkeys cage
 rm -rf : remove recursive something (removes everything inside the dir)
 man : shows manual
 
